@@ -1,7 +1,7 @@
 Hola! 👋 Soy Agustin
 ========================
 
-Téc. universitario en Desarrollo Web
+Desarrollador Web Fullstack
 ------------------------------------
 
 *   🌍  Soy de Buenos aires, Argentina
