@@ -1,8 +1,8 @@
 Hola! 👋 Soy Agustin
 ========================
 
-Desarrollador Web Full Stack
-----------------------------
+Téc. universitario en Desarrollo Web
+------------------------------------
 
 *   🌍  Soy de Buenos aires, Argentina
 *   ✉️  Podes contactarme en [agustinnava0@gmail.com](mailto:agustinnava0@gmail.com)
